@@ -6,7 +6,7 @@
 - [x] Desenvolva páginas web com JavaScript
 - [x] Manipulando elementos da página
 
-# [JavaScript ES6 essencial](https://web.digitalinnovation.one/course/javascript-es6-essencial/learning/183aad79-0e6d-4acb-880f-b0e179824a81/) ☼ [Aulas DIO](https://web.digitalinnovation.one/course/javascript-es6-essencial/learning/183aad79-0e6d-4acb-880f-b0e179824a81)
+# [JavaScript ES6 essencial](https://github.com/kakanew/DIO_JavaScript/tree/master/Innovation_JavaScript_ES6_Essencial) ☼ [Aulas DIO](https://web.digitalinnovation.one/course/javascript-es6-essencial/learning/183aad79-0e6d-4acb-880f-b0e179824a81)
 
 Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios.
 
