@@ -1,70 +1,82 @@
-let quantidadeAlunos;
-let infoAluno = [];
-let vencedores = [];
+const dados = [ // Entrada para Teste na IDE
+  '3',
+  'Fernanda 7',
+  'Fernando 9',
+  'Gustavo 11',
+  '5',
+  'Maria 7',
+  'Pedro 9',
+  'Joao_Vitor 5',
+  'Isabel 12',
+  'Laura 8',
+  '3',
+  'Maria 4',
+  'Pedro 3',
+  'Joao 2',
+  '0',
+]
 
-while(true){
-  quantidadeAlunos = gets();
-  if(quantidadeAlunos === "0") break;
-  
-  if(quantidadeAlunos >= 1 && quantidadeAlunos <= 100){
-    let dadosLinha = [];
-    for(let i = 0; i < quantidadeAlunos; i++){
-      let linha = gets().split(" ");
-      dadosLinha.push({
-        nome:  (linha[0].length > 30) ? linha[0].substring(0,30) : linha[0],
-        ficha: (parseInt(linha[1]) > 500) ? 500 :  parseInt(linha[1])
-      });
-    }
-    infoAluno.push(dadosLinha);
+let n = 0; // Testes na IDE
+
+while (true) {
+  // let nStudents = parseInt(gets()); // Comentar para Testes na IDE
+  let nStudents = parseInt(dados[n++]); // Testes na IDE
+
+  if (nStudents === 0) break;
+
+  if (nStudents < 1 || nStudents > 100) {
+    n += nStudents // Testes na IDE
+    continue;
   }
+
+  let students = [];
+  let i = 0;
+
+  while (i < nStudents) {
+    // let input = gets(); // Comentar para Testes na IDE
+    let input = dados[n++]; // Testes na IDE
+
+    let [name, value] = input.split(' ');
+    i++;
+
+    if (!(name.match(/^[A-Za-z_]{1,30}$/)) || !(1 <= value && value <= 500)) {
+      // console.log(`Entrada do Aluno ${name} com valor ${value} é inválida.`)
+      continue;
+    }
+    students = [...students, { name, value }]
+  }
+
+  let winner = whoIsChampion(students);
+  console.log(`Vencedor(a): ${winner}`);
+
 }
 
-for(let circ = 0; circ < infoAluno.length; circ++){
-  let contadorFicha = infoAluno[circ][0].ficha;
-  let indice = 0;
-  let indiceMax = infoAluno[circ].length-1;
-  let indiceMin = 0;
+function whoIsChampion(group, index = 0, removed = {}) {
+  if (group.length === 1) return group[0].name;
 
-  while(infoAluno[circ].length > 1){
-    for(let cont = 0; cont < contadorFicha; cont++){
-      if(contadorFicha % 2 === 0){
-        //sentido horário (do fim para o começo)
-        indice--;
-      }
-      else{
-        //sentido antí-horário (do começo para o fim)
-        indice++;
-      }
-      
-      if(indice > indiceMax){
-        indice = indiceMin;
-      }
-      if(indice < indiceMin){
-        indice = indiceMax;
-      }
-    }
+  let nextIndex = undefined;
+  let studentNumber = parseInt(removed.value) || parseInt(group[index].value);
 
-    contadorFicha = infoAluno[circ][indice].ficha;
-    infoAluno[circ].splice(indice,1);
-    indiceMax = infoAluno[circ].length-1;
+  (studentNumber % 2 === 0) ? studentNumber *= -1 : studentNumber *= 1;
 
-    if(contadorFicha % 2 === 0){
-      if(indice > indiceMax) {
-        indice = indiceMin;
-      }
-    }
-    else{
-      indice--;
-    }
-    if(indice > indiceMax) {
-      indice = indiceMin;
-    }
-    if(indice < indiceMin){
-      indice = indiceMax;
-    }
+  const indexToRemove = crawlArray(group, index, studentNumber);
+
+  [removed] = group.splice(indexToRemove, 1);
+
+  if (removed.value % 2 === 0) {
+    nextIndex = (indexToRemove > group.length - 1)
+        ? 0
+        : indexToRemove;
   }
+  else {
+    nextIndex = (indexToRemove > group.length - 1)
+        ? group.length - 1
+        : indexToRemove - 1;
+  }
+
+  return whoIsChampion(group, nextIndex, removed);
 }
 
-for(dado of infoAluno){
-  console.log("Vencedor(a): " + dado[0].nome);
+function crawlArray(array, index, n) {
+  return ((index + n) % array.length + array.length) % array.length;
 }

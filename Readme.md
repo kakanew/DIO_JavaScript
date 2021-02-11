@@ -1,4 +1,4 @@
-# [JavaScript Basico](https://github.com/kakanew/DIO_JavaScript/tree/master/AULAS_JavaScript_Basico)
+# [AULAS_JavaScript Basico](https://github.com/kakanew/DIO_JavaScript/tree/master/AULAS_JavaScript_Basico)
 
 - [x] Introdução ao JavaScript
 - [x] Condicionais, laços de repetição e Date
@@ -6,7 +6,7 @@
 - [x] Desenvolva páginas web com JavaScript
 - [x] Manipulando elementos da página
 
-# [JavaScript ES6 essencial](https://github.com/kakanew/DIO_JavaScript/tree/master/AULAS_JavaScript_ES6_Essencial)
+# [AULAS_JavaScript ES6 essencial](https://github.com/kakanew/DIO_JavaScript/tree/master/AULAS_JavaScript_ES6_Essencial)
 
 Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios.
 
@@ -15,7 +15,7 @@ Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada co
 - [x] Orientação a objetos e Design Patterns com a linguagem ES6
 - [x] Manipulação e iteração de arrays
 
-# [Desenvolvimento avançado com JavaScript ES6](https://github.com/kakanew/DIO_JavaScript/tree/master/AULAS_Desenvolvimento_JavaScript_ES6)
+# [AULAS_Desenvolvimento avançado com JavaScript ES6](https://github.com/kakanew/DIO_JavaScript/tree/master/AULAS_Desenvolvimento_JavaScript_ES6)
 
 Aprenda a trabalhar com a mais nova atualização da linguagem JavaScript, a ES6, desde seus fundamentos até as funções avançadas e novos conceitos aplicados.
 
@@ -26,12 +26,12 @@ Aprenda a trabalhar com a mais nova atualização da linguagem JavaScript, a ES6
 - [x] Conceitos aplicados a qualidade de código e automação de testes em JS
 - [x] Tratamentos e exceções
 
-# [Entendendo Promises de uma vez por todas](https://github.com/kakanew/DIO_JavaScript/tree/master/AULAS_Entendendo_Promises)
+# [AULAS_Entendendo Promises de uma vez por todas](https://github.com/kakanew/DIO_JavaScript/tree/master/AULAS_Entendendo_Promises)
 
 - [x] Neste projeto prático vamos mergulhar fundo no padrão Promises e entender como funciona todo o fluxo assíncrono de funções em Javascript!
 
 
-# [Como funciona o async/await](https://github.com/kakanew/DIO_JavaScript/tree/master/AULAS_Asyncawait)
+# [AULAS_Como funciona o async/await](https://github.com/kakanew/DIO_JavaScript/tree/master/AULAS_Asyncawait)
 
 - [x] As promises são um recurso importante do JavaScript que podem ser aplicadas de diversas formas. Aprenda sobre o que é e como utilizar as keywords async e await para otimizar o desenvolvimento de projetos.
 
@@ -77,11 +77,11 @@ Aprenda a trabalhar com a mais nova atualização da linguagem JavaScript, a ES6
 
 # [DESAFIOS_Ordenação e Filtros em *JavaScript*](https://github.com/kakanew/DIO_JavaScript/tree/master/DESAFIOS_Ordenacao_Filtros_JavaScript)
 
-- [ ] 1 / 5 - Ordenando Números Pares e Ímpares
-- [ ] 2 / 5 - Compras no Supermercado
-- [ ] 3 / 5 - Uniformes de final de ano
-- [ ] 4 / 5 - Fila do Banco
-- [ ] 5 / 5 - Gincana no Acampamento
+- [x] 1 / 5 - Ordenando Números Pares e Ímpares ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/ordenando-numeros-pares-e-impares)
+- [x] 2 / 5 - Compras no Supermercado ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/compras-no-supermercado)
+- [x] 3 / 5 - Uniformes de final de ano ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/uniformes-de-final-de-ano)
+- [x] 4 / 5 - Fila do Banco ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/fila-do-banco)
+- [x] 5 / 5 - Gincana no Acampamento ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/gincana-no-acampamento)
 
 ### [DIO_JavaScript](https://github.com/kakanew/DIO_JavaScript)
 

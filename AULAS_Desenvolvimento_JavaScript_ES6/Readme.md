@@ -1,4 +1,4 @@
-# [Desenvolvimento avançado com JavaScript ES6](https://github.com/kakanew/DIO_JavaScript/tree/master/AULAS_Desenvolvimento_JavaScript_ES6) ☼ [Aulas DIO](https://web.digitalinnovation.one/course/desenvolvimento-avancado-com-javascript-es6/learning/75ee88ab-99f3-4ab8-8620-7efafcb26481/)
+# [AULAS_Desenvolvimento avançado com JavaScript ES6](https://github.com/kakanew/DIO_JavaScript/tree/master/AULAS_Desenvolvimento_JavaScript_ES6) ☼ [Aulas DIO](https://web.digitalinnovation.one/course/desenvolvimento-avancado-com-javascript-es6/learning/75ee88ab-99f3-4ab8-8620-7efafcb26481/)
 
 Aprenda a trabalhar com a mais nova atualização da linguagem JavaScript, a ES6, desde seus fundamentos até as funções avançadas e novos conceitos aplicados.
 

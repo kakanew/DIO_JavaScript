@@ -1,44 +1,56 @@
-let alunos = gets();
-let infoAlunos = [];
+const dados = [ //  Entrada para Teste na IDE
+    '9',
+    'Maria Jose',
+    'branco P',
+    'Mangojata Mancuda',
+    'vermelho P',
+    'Cezar Torres Mo',
+    'branco P',
+    'Baka Lhau',
+    'vermelho P',
+    'JuJu Mentina',
+    'branco M',
+    'Amaro Dinha',
+    'vermelho P',
+    'Adabi Finho',
+    'branco G',
+    'Severina ',
+    'branco G',
+    'Carlos Chade ',
+    'vermelho P',
+    '0'
+]
 
-for (let i = 0; i < alunos; i++) {
-    let nomeAluno = gets();
-    let infoUniforme = gets().split(" ");
+// const uniformes = parseInt(gets()); // Comentar para Testes na IDE
+const uniformes = parseInt(dados[0]); // Testes na IDE
+let i = 1; // Testes na IDE
+let alunos = [];
 
-    infoAlunos.push({
-        nome: nomeAluno,
-        cor: infoUniforme[0],
-        tamanho: infoUniforme[1]
-    });
+while (true) {
+    // let nome = gets(); // Comentar para Testes na IDE
+    let nome = dados[i++]; // Testes na IDE
+    if (parseInt(nome) === 0) break;
+
+    // let [cor, tamanho] = gets().split(' '); //  Comentar para Testes na IDE
+    let [cor, tamanho] = dados[i++].split(' '); // Testes na IDE
+
+    alunos = [...alunos, { nome, cor, tamanho }]
 }
 
-let Ordenados = infoAlunos.sort((a, b) => {
-  if(a.cor > b.cor){
-    return 1;
-    }
-    else {
-        if (a.cor === b.cor) {
-            if (a.tamanho < b.tamanho) {
-                return 1;
-            }
-            else {
-                if (a.cor === b.cor && a.tamanho === b.tamanho) {
-                    if (a.nome > b.nome) {
-                        return 1;
-                    }
-                    else {
-                        return -1;
-                    }
-                }
-                else {
-                    return -1;
-                }
-            }
+alunos
+    .sort((a, b) => {
+        for (let [testCase, sortCase] of [
+            [a.cor > b.cor, 1],
+            [a.cor < b.cor, -1],
+            [a.tamanho > b.tamanho, -1],
+            [a.tamanho < b.tamanho, 1],
+            [a.nome > b.nome, 1],
+            [a.nome < b.nome, -1],
+        ]) {
+            if (testCase) return sortCase;
         }
-        else {
-            return -1;
-        }
-    }
-});
+    })
 
-Ordenados.map(aluno => console.log(aluno.cor, aluno.tamanho, aluno.nome));
+alunos.map(({ nome, cor, tamanho }) => {
+    console.log(`${cor} ${tamanho} ${nome}`);
+})
