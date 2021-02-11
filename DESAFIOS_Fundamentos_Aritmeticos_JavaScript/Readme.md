@@ -1,4 +1,4 @@
-# DESAFIO_Fundamentos Aritméticos em *JavaScript*
+# [DESAFIOS_Fundamentos Aritméticos em *JavaScript*](https://github.com/kakanew/DIO_JavaScript/tree/master/DESAFIOS_Fundamentos_Aritmeticos_JavaScript)
 
 - [x] ### 1 / 5 - Quantidade de Números Positivos ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos)
 

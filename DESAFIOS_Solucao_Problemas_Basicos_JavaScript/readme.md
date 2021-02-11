@@ -1,4 +1,4 @@
-# Solução de problemas básicos em *JavaScript*
+# [DESAFIOS_Solução de problemas básicos em *JavaScript*](https://github.com/kakanew/DIO_JavaScript/tree/master/DESAFIOS_Solucao_Problemas_Basicos_JavaScript)
 
 - [x] ### 1 / 3 - Dividindo X por Y ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/dividindo-x-por-y)
 

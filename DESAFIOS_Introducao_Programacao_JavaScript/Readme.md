@@ -1,4 +1,4 @@
-# DESAFIO_Introdução a Programação com *JavaScript*
+# [DESAFIOS_Introdução a Programação com *JavaScript*](https://github.com/kakanew/DIO_JavaScript/tree/master/DESAFIOS_Introducao_Programacao_JavaScript)
 
 - [ ] 1 / 3 - Visita na Feira ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira)
 
