@@ -60,7 +60,7 @@
   | ------------------ | ------------------------------------------------------------ |
   | -5 0 -3 -4 12      | 3 valor(es) par(es) 2 valor(es) impar(es) 1 valor(es) positivo(s) 3 valor(es) negativo(s) |
 
-- [ ] ### 4 / 5 - Contagem de Cédulas ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/contagem-de-cedulas)
+- [x] ### 4 / 5 - Contagem de Cédulas ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/contagem-de-cedulas)
 
   #### Desafio
 
@@ -88,7 +88,7 @@
   | ---- | ------------------------------------------------------------ |
   |      |                                                              |
 
-- [ ] ### 5 / 5 - Consumo Médio do Automóvel ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/consumo-medio-do-automovel)
+- [x] ### 5 / 5 - Consumo Médio do Automóvel ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/consumo-medio-do-automovel)
 
   #### Desafio
 

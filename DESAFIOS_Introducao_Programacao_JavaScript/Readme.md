@@ -1,6 +1,6 @@
 # [DESAFIOS_Introdução a Programação com *JavaScript*](https://github.com/kakanew/DIO_JavaScript/tree/master/DESAFIOS_Introducao_Programacao_JavaScript)
 
-- [ ] 1 / 3 - Visita na Feira ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira)
+- [x] 1 / 3 - Visita na Feira ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira)
 
   #### Desafio
 
@@ -28,7 +28,7 @@
   | ----- | ----- |
   |       |       |
 
-- [ ] 2 / 3 - Multiplicação Simples ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/multiplicacao-simples)
+- [x] 2 / 3 - Multiplicação Simples ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/multiplicacao-simples)
 
   #### Desafio
 
@@ -56,7 +56,7 @@
   | ---- | -------- |
   |      |          |
 
-- [ ] 3 / 3 - Folha de Pagamento ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/folha-de-pagamento)
+- [x] 3 / 3 - Folha de Pagamento ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/folha-de-pagamento)
 
   #### Desafio
 
