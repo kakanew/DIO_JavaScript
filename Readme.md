@@ -55,35 +55,33 @@ Aprenda a trabalhar com a mais nova atualização da linguagem JavaScript, a ES6
 
 - [x] Nesse projeto prático iremos construir uma réplica simplificada do lendário bate-papo da Uol dos anos 90, porém utilizando tecnologias atuais como a biblioteca socket.io, Node e muito JavaScript puro. O foco da aula será no front-end, onde iremos realizar a construção da interface, gerenciar eventos do nosso WebSocket e manipular os elementos da interface.
 
-# DESAFIO_Solução de problemas básicos em *JavaScript*
+# [DESAFIO_Introdução a Programação com *JavaScript*](https://github.com/kakanew/DIO_JavaScript/tree/master/DESAFIOS_Introducao_Programacao_JavaScript)
+
+- [x] 1 / 3 - Visita na Feira ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira)
+- [x] 2 / 3 - Multiplicação Simples ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/multiplicacao-simples)
+- [x] 3 / 3 - Folha de Pagamento ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/folha-de-pagamento)
+
+# [DESAFIO_Solução de problemas básicos em *JavaScript*](https://github.com/kakanew/DIO_JavaScript/tree/master/DESAFIOS_Solucao_Problemas_Basicos_JavaScript)
 
 - [x] 1 / 3 - Dividindo X por Y ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/dividindo-x-por-y)
-
 - [x] 2 / 3 - Blobs ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/blobs)
-
 - [ ] 3 / 3 - Tipo de Combustível ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/tipo-de-combustivel)
 
-# DESAFIO_Introdução a Programação com *JavaScript*
-
-- [ ] 1 / 3 - Visita na Feira ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira)
-- [ ] 2 / 3 - Multiplicação Simples ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/multiplicacao-simples)
-- [ ] 3 / 3 - Folha de Pagamento ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/folha-de-pagamento)
-
-# DESAFIO_Ordenação e Filtros em *JavaScript*
-
-- [ ] 1 / 5 - Ordenando Números Pares e Ímpares
-- [ ] 2 / 5 - Compras no Supermercado
-- [ ] 3 / 5 - Uniformes de final de ano
-- [ ] 4 / 5 - Fila do Banco
-- [ ] 5 / 5 - Gincana no Acampamento
-
-# DESAFIO_Fundamentos Aritméticos em *JavaScript*
+# [DESAFIO_Fundamentos Aritméticos em *JavaScript*](https://github.com/kakanew/DIO_JavaScript/tree/master/DESAFIOS_Aritmeticos_JavaScript)
 
 - [x] 1 / 5 - Quantidade de Números Positivos ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos)
 - [x] 2 / 5 - Exibindo Números Pares ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/exibindo-numeros-pares)
 - [x] 3 / 5 - Análise de Números ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/analise-de-numeros)
 - [x] 4 / 5 - Contagem de Cédulas ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/contagem-de-cedulas)
 - [x] 5 / 5 - Consumo Médio do Automóvel ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/consumo-medio-do-automovel)
+
+# [DESAFIO_Ordenação e Filtros em *JavaScript*](https://github.com/kakanew/DIO_JavaScript/tree/master/DESAFIOS_Filtros_JavaScript)
+
+- [ ] 1 / 5 - Ordenando Números Pares e Ímpares
+- [ ] 2 / 5 - Compras no Supermercado
+- [ ] 3 / 5 - Uniformes de final de ano
+- [ ] 4 / 5 - Fila do Banco
+- [ ] 5 / 5 - Gincana no Acampamento
 
 ### [DIO_JavaScript](https://github.com/kakanew/DIO_JavaScript)
 
