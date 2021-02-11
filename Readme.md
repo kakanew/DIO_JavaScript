@@ -6,7 +6,7 @@
 - [x] Desenvolva páginas web com JavaScript
 - [x] Manipulando elementos da página
 
-# [JavaScript ES6 essencial](https://github.com/kakanew/DIO_JavaScript/tree/master/Innovation_JavaScript_ES6_Essencial) ☼ [Aulas DIO](https://web.digitalinnovation.one/course/javascript-es6-essencial/learning/183aad79-0e6d-4acb-880f-b0e179824a81)
+# [JavaScript ES6 essencial](https://github.com/kakanew/DIO_JavaScript/tree/master/Innovation_JavaScript_ES6_Essencial)
 
 Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios.
 
@@ -15,7 +15,7 @@ Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada co
 - [x] Orientação a objetos e Design Patterns com a linguagem ES6
 - [x] Manipulação e iteração de arrays
 
-# [Desenvolvimento avançado com JavaScript ES6](https://github.com/kakanew/DIO_JavaScript/tree/master/Innovation_Desenvolvimento_JavaScript_ES6) ☼ [Aulas DIO](https://web.digitalinnovation.one/course/desenvolvimento-avancado-com-javascript-es6/learning/75ee88ab-99f3-4ab8-8620-7efafcb26481/)
+# [Desenvolvimento avançado com JavaScript ES6](https://github.com/kakanew/DIO_JavaScript/tree/master/Innovation_Desenvolvimento_JavaScript_ES6)
 
 Aprenda a trabalhar com a mais nova atualização da linguagem JavaScript, a ES6, desde seus fundamentos até as funções avançadas e novos conceitos aplicados.
 
@@ -26,33 +26,64 @@ Aprenda a trabalhar com a mais nova atualização da linguagem JavaScript, a ES6
 - [x] Conceitos aplicados a qualidade de código e automação de testes em JS
 - [x] Tratamentos e exceções
 
-# [Entendendo Promises de uma vez por todas](https://github.com/kakanew/DIO_JavaScript/tree/master/Innovation_Entendendo_Promises) ☼ [Aulas DIO](https://web.digitalinnovation.one/course/como-funciona-o-asyncawait/learning/5eddaf18-f5d5-4fa4-9906-b16ed7340a65)
+# [Entendendo Promises de uma vez por todas](https://github.com/kakanew/DIO_JavaScript/tree/master/Innovation_Entendendo_Promises)
 
 - [x] Neste projeto prático vamos mergulhar fundo no padrão Promises e entender como funciona todo o fluxo assíncrono de funções em Javascript!
 
 
-# [Como funciona o async/await](https://github.com/kakanew/DIO_JavaScript/tree/master/Innovation_Asyncawait) ☼ [Aulas DIO](https://web.digitalinnovation.one/course/como-funciona-o-asyncawait/learning/5eddaf18-f5d5-4fa4-9906-b16ed7340a65)
+# [Como funciona o async/await](https://github.com/kakanew/DIO_JavaScript/tree/master/Innovation_Asyncawait)
 
 - [x] As promises são um recurso importante do JavaScript que podem ser aplicadas de diversas formas. Aprenda sobre o que é e como utilizar as keywords async e await para otimizar o desenvolvimento de projetos.
 
-# [PROJETO_Recriando o jogo da cobrinha com JavaScript](https://github.com/kakanew/DIO_JavaScript/tree/master/PROJETO_Jogo_Cobrinha_JavaScript) ☼ [Aulas DIO](https://web.digitalinnovation.one/lab/recriando-o-jogo-da-cobrinha-com-javascript/learning/a41588bb-45b0-41ce-a7d3-20012199fb11)
+# [PROJETO_Recriando o jogo da cobrinha com JavaScript](https://github.com/kakanew/DIO_JavaScript/tree/master/PROJETO_Jogo_Cobrinha_JavaScript)
 
 - [x] Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 
-# [PROJETO_Recriando o famoso jogo do dinossauro sem internet](https://github.com/kakanew/DIO_JavaScript/tree/master/PROJETO_Jogo_Dinossauro_Sem_Internet) ☼ [Aulas DIO](https://web.digitalinnovation.one/lab/recriando-o-famoso-jogo-do-dinossauro-sem-internet/learning/305f7aa4-5e11-4fc8-9835-206280cab17f)
+# [PROJETO_Recriando o famoso jogo do dinossauro sem internet](https://github.com/kakanew/DIO_JavaScript/tree/master/PROJETO_Jogo_Dinossauro_Sem_Internet)
 
 - [x] Neste projeto você terá o desafio de criar uma cópia do jogo do dinossauro, famoso no Chrome por nos entreter quando estamos sem conexão. Nele iremos utilizar HTML, CSS e JavaScript, abordando de maneira simples diversos conceitos introdutórios importantes para programação na web como tags básicas de HTML, manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS.
 
-# [PROJETO_Requisitando dados de uma API de criptomoedas](https://github.com/kakanew/DIO_JavaScript/tree/master/PROJETO_Requisitando_dados_API_criptomoedas) ☼ [Aulas DIO](https://web.digitalinnovation.one/lab/requisitando-dados-de-uma-api-de-criptomoedas/learning/696813bd-d7f2-44c1-a4be-773b46129b71)
+# [PROJETO_Requisitando dados de uma API de criptomoedas](https://github.com/kakanew/DIO_JavaScript/tree/master/PROJETO_Requisitando_dados_API_criptomoedas)
 
 - [x] Aprenda a fazer uma requisição de uma API de Criptomoeda com JavaScript. Para você que está começando a carreira de TI e gostaria de manipular APIs além de exibir essas informações em uma página web responsiva.
 
-# [PROJETO_Recriando a Interface do Netflix](https://github.com/kakanew/DIO_JavaScript/tree/master/PROJETO_Netflix) ☼ [Aulas DIO](https://web.digitalinnovation.one/lab/recriando-a-interface-do-netflix/learning/d75bfc6e-a532-47d9-a18d-b5b6c43a660e)
+# [PROJETO_Recriando a Interface do Netflix](https://github.com/kakanew/DIO_JavaScript/tree/master/PROJETO_Netflix)
 
 - [x] Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 
-# [Recriando o chat do UOL dos anos 90 com WebSocket, Node e JavaScript](https://github.com/kakanew/DIO_JavaScript/tree/master/PROJETO_Chatbot_UOL_Anos90) ☼ [Aulas DIO](https://web.digitalinnovation.one/lab/recriando-o-chat-do-uol-dos-anos-90-com-websocket-node-e-javascript/learning/6de48355-70be-400d-a098-010cf9ef01e6)
+# [PROJETO_Recriando o chat do UOL dos anos 90 com WebSocket, Node e JavaScript](https://github.com/kakanew/DIO_JavaScript/tree/master/PROJETO_Chatbot_UOL_Anos90)
 
 - [x] Nesse projeto prático iremos construir uma réplica simplificada do lendário bate-papo da Uol dos anos 90, porém utilizando tecnologias atuais como a biblioteca socket.io, Node e muito JavaScript puro. O foco da aula será no front-end, onde iremos realizar a construção da interface, gerenciar eventos do nosso WebSocket e manipular os elementos da interface.
 
+# DESAFIO_Solução de problemas básicos em *JavaScript*
+
+- [x] 1 / 3 - Dividindo X por Y ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/dividindo-x-por-y)
+
+- [x] 2 / 3 - Blobs ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/blobs)
+
+- [ ] 3 / 3 - Tipo de Combustível ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/solucao-de-problemas-basicos-em-javascript/algorithm/tipo-de-combustivel)
+
+# DESAFIO_Introdução a Programação com *JavaScript*
+
+- [ ] 1 / 3 - Visita na Feira ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/visita-na-feira)
+- [ ] 2 / 3 - Multiplicação Simples ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/multiplicacao-simples)
+- [ ] 3 / 3 - Folha de Pagamento ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/introducao-a-programacao-com-javascript/algorithm/folha-de-pagamento)
+
+# DESAFIO_Ordenação e Filtros em *JavaScript*
+
+- [ ] 1 / 5 - Ordenando Números Pares e Ímpares
+- [ ] 2 / 5 - Compras no Supermercado
+- [ ] 3 / 5 - Uniformes de final de ano
+- [ ] 4 / 5 - Fila do Banco
+- [ ] 5 / 5 - Gincana no Acampamento
+
+# DESAFIO_Fundamentos Aritméticos em *JavaScript*
+
+- [x] 1 / 5 - Quantidade de Números Positivos ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/quantidade-de-numeros-positivos)
+- [x] 2 / 5 - Exibindo Números Pares ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/exibindo-numeros-pares)
+- [x] 3 / 5 - Análise de Números ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/analise-de-numeros)
+- [x] 4 / 5 - Contagem de Cédulas ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/contagem-de-cedulas)
+- [x] 5 / 5 - Consumo Médio do Automóvel ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/fundamentos-aritmeticos-em-javascript/algorithm/consumo-medio-do-automovel)
+
 ### [DIO_JavaScript](https://github.com/kakanew/DIO_JavaScript)
+
