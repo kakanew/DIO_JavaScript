@@ -1,8 +1,8 @@
 # [DESAFIOS_Ordenação e Filtros em *JavaScript*](https://github.com/kakanew/DIO_JavaScript/tree/master/DESAFIOS_Ordenacao_Filtros_JavaScript)
 
-- [x] ## 1 / 5 - Ordenando Números Pares e Ímpares ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/ordenando-numeros-pares-e-impares)
+- [x] 1 / 5 - Ordenando Números Pares e Ímpares ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/ordenando-numeros-pares-e-impares)
 
-  #### Desafio
+  **Desafio**
 
   Crie um programa onde você receberá valores inteiros *não* negativos como entrada.
 
@@ -13,11 +13,11 @@
 
   Você deve exibir os pares em ordem crescente e na sequência os ímpares em ordem decrescente.
 
-  #### Entrada
+  **Entrada**
 
   A primeira linha de entrada contém um único inteiro positivo **N** (1 < **N** < 10000) Este é o número de linhas de entrada que vem logo a seguir. As próximas **N** linhas terão, cada uma delas, um valor inteiro *não* negativo.
 
-  #### Saída
+  **Saída**
 
   Exiba todos os valores lidos na entrada segundo a ordem apresentada acima. Cada número deve ser impresso em uma linha, conforme exemplo de saída abaixo.
 
@@ -27,19 +27,19 @@
   | -------------------------------------- | ----------------------------------- |
   | 10 4 32 34 543 3456 654 567 87 6789 98 | 4 32 34 98 654 3456 6789 567 543 87 |
 
-- [x] ## 2 / 5 - Compras no Supermercado ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/compras-no-supermercado)
+- [x] 2 / 5 - Compras no Supermercado ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/compras-no-supermercado)
 
-  #### Desafio
+  **Desafio**
 
   Pedro trabalha sempre até tarde todos os dias, com isso tem pouco tempo tempo para as tarefas domésticas. Para economizar tempo ele faz a lista de compras do supermercado em um aplicativo e costuma anotar cada item na mesma hora que percebe a falta dele em casa.
 
   O problema é que o aplicativo *não* exclui itens duplicados, como Pedro anota o mesmo item mais de uma vez e a lista acaba ficando extensa. Sua tarefa é melhorar o aplicativo de notas desenvolvendo um código que exclua os itens duplicados da lista de compras e que os ordene alfabeticamente.
 
-  #### Entrada
+  **Entrada**
 
   A primeira linha de entrada contém um inteiro **N** (**N** < 100) com a quantidade de casos de teste que vem a seguir, ou melhor, a quantidade de listas de compras para organizar. Cada lista de compra consiste de uma única linha que contém de 1 a 1000 itens ou palavras compostas apenas de letras minúsculas (de 1 a 20 letras), sem acentos e separadas por um espaço.
 
-  #### Saída
+  **Saída**
 
   A saída contém **N** linhas, cada uma representando uma lista de compra, sem os itens repetidos e em ordem alfabética.
 
@@ -49,28 +49,28 @@
   | ------------------------------------------------------------ | -------------------------------------- |
   | 2 carne laranja suco picles laranja picles laranja pera laranja pera pera | carne laranja picles suco laranja pera |
 
-- [x] ## 3 / 5 - Uniformes de final de ano ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/uniformes-de-final-de-ano)
+- [x] 3 / 5 - Uniformes de final de ano ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/uniformes-de-final-de-ano)
 
-  #### Desafio
+  **Desafio**
 
   O professor Girafales organizou a confecção de um uniforme para as turmas da escola para comemorar o final do ano. Após algumas conversas, ficou decidido com os alunos que eles poderiam escolher a cor do uniforme entre branco ou vermelho. Assim sendo, Girafales precisa de sua ajuda para organizar as listas de quem quer o uniforme em cada uma das turmas, relacionando estas camisetas pela cor, tamanho (P, M ou G) e por último pelo nome.
 
-  #### Entrada
+  **Entrada**
 
   Cada caso de teste inicia com um valor **N**, (1 ≤ **N** ≤ 60) inteiro e positivo, que indica a quantidade de uniformes a serem feitas para aquela turma. As próximas **N***2 linhas contém informações de cada um dos uniformes (serão duas linhas de informação para cada uniforme). A primeira linha irá conter o nome do estudante e a segunda linha irá conter a cor do uniforme ("branco" ou "vermelho") seguido por um espaço e pelo tamanho do uniforme "P" "M" ou "G". A entrada termina quando o valor de **N** for igual a zero (0) e esta valor *não* deverá ser processado.
 
-  #### Saída
+  **Saída**
 
   Para cada caso de entrada deverão ser impressas as informações ordenadas pela cor em ordem ascendente, seguido pelos tamanhos em ordem descendente e por último por ordem ascendente de nome, conforme o exemplo abaixo.
-    
+  
 
   | Exemplo de Entrada                                           | Exemplo de Saída                                             |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
   | 9 Maria Jose branco P Mangojata Mancuda vermelho P Cezar Torres Mo branco P Baka Lhau vermelho P JuJu Mentina branco M Amaro Dinha vermelho P Adabi Finho branco G Severina Rigudinha branco G Carlos Chade Losna vermelho P 0 | branco P Cezar Torres Mo branco P Maria Jose branco M JuJu Mentina branco G Adabi Finho branco G Severina Rigudinha vermelho P Amaro Dinha vermelho P Baka Lhau vermelho P Carlos Chade Losna vermelho P Mangojata Mancuda |
 
-- [x] ## 4 / 5 - Fila do Banco ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/fila-do-banco)
+- [x] 4 / 5 - Fila do Banco ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/fila-do-banco)
 
-  #### Desafio 
+  **Desafio** 
 
   O banco que você trabalha sempre tem problemas para organizar as filas de atendimento dos clientes.
 
@@ -78,7 +78,7 @@
 
   Então, dada a ordem de chegada dos clientes reordene a fila de acordo com o número recebido via sms, e diga quantos clientes *não* precisaram trocar de lugar nessa reordenação.
 
-  #### Entrada
+  **Entrada**
 
   A primeira linha contém um inteiro **N**, indicando o número de casos de teste a seguir.
 
@@ -86,7 +86,7 @@
 
   Os inteiros acima são dados em ordem de chegada, ou seja, o primeiro inteiro diz respeito ao primeiro cliente a chegar na fila, o segundo inteiro diz respeito ao segundo cliente, e assim sucessivamente.
 
-  #### Saída
+  **Saída**
 
   Para cada caso de teste imprima uma linha, contendo um inteiro, indicando o número de clientes que *não* precisaram trocar de lugar mesmo após a fila ser reordenada.
 
@@ -96,9 +96,9 @@
   | -------------------------------------------- | ---------------- |
   | 3 3 100 80 90 4 100 120 30 50 4 100 90 30 25 | 1 0 4            |
 
-- [x] ## 5 / 5 - Gincana no Acampamento ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/gincana-no-acampamento)
+- [x] 5 / 5 - Gincana no Acampamento ☼ [Desafio DIO](https://web.digitalinnovation.one/coding/ordenacao-e-filtros-em-javascript/algorithm/gincana-no-acampamento)
 
-  #### Desafio
+  **Desafio**
 
   Nas férias de Dezembro, várias escolas se organizam e levam seus alunos para um acampamento de férias por uma semana. Nestes acampamentos os alunos são divididos em cabanas coletivos por gênero e idade, sempre com um adulto que, além de dormir com o grupo no cabana, também são responsáveis por criar e executar várias atividades, como por exemplo jogos, excursões, Gincanas Noturnas, etc.
 
@@ -108,13 +108,13 @@
 
   Desenvolva um programa para que no próximo evento o responsável pela brincadeira saiba previamente qual criança irá ser a vencedora de cada grupo, com base nas informações fornecidas.
 
-  #### Entrada
+  **Entrada**
 
   A entrada contém vários casos de teste. A primeira linha de cada caso de teste contém um inteiro **N** (1 ≤ **N** ≤ 100), indicando a quantidade de alunos que farão parte de cada círculo. Em seguida, as **N** linhas de cada caso de teste conterão duas informações, o **Nome** e o **Valor** (1 ≤ **Valor** ≤ 500) que consta na ficha de cada aluno, separados por um espaço, na ordem de entrada na formação do círculo inicial.
 
   OBS: O **Nome** de cada aluno *não* deverá ultrapassar 30 caracteres e contém apenas letras maiúsculas e minúsculas, sem acentos, e o caractere “_”. O final da entrada é indicado pelo número zero.
 
-  #### Saída
+  **Saída**
 
   Para cada caso de teste, deve-se apresentar a mensagem Vencedor(a): xxxxxx, com um espaço após o sinal ":" indicando qual é o aluno do grupo que venceu a brincadeira.
 
